@@ -1,6 +1,6 @@
 # assign6-model-eval
 
-## Assignment 6: Model Evaluation and Feature Selection
+## Assignment 6: Model Evaluation and Model Selection
 
 ### Objective: In this assignment, you will gain hands-on experience in evaluating the performance of machine learning models and selecting the best features for your model. The assignment will focus on the following concepts:
 
